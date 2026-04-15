@@ -1,21 +1,74 @@
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:00c853&height=200&section=header&text=FabiEli007%20-%20IT%20Engineer&fontSize=35&fontColor=ffffff)
+
 ![Linux](https://img.shields.io/badge/Linux-black)
 ![Python](https://img.shields.io/badge/Python-blue)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-red)
 ![Data](https://img.shields.io/badge/Data-green)
+![Networking](https://img.shields.io/badge/Networking-orange)
 
-🎓 IT Engineer passionate about System & Network Administration, Cybersecurity, and Data/AI.
+---
 
-I have strong experience in:
+# 👋 About Me
 
-* System administration (Linux, Windows Server)
-* Networking (VLAN, VPN, Routing)
-* Cybersecurity (Snort, OpenVAS, Nessus)
-* Data analysis & Machine Learning (Python, Power BI)
+🎓 IT Engineer | System & Network Administrator | Cybersecurity | AI & Data  
 
-🔐 I worked on securing web servers by implementing HTTPS, detecting vulnerabilities, and analyzing threats using professional tools.
+I specialize in building real-world IT solutions combining:
+- 🔐 Cybersecurity
+- 🌐 Networking & System Administration
+- 📊 Data Analysis & Machine Learning
+- ⚙️ DevOps (Docker, Kubernetes)
 
-📊 I also build data-driven projects such as fraud detection systems and interactive dashboards.
+---
 
-🚀 Currently focused on building real-world projects combining infrastructure, security, and data.
+# 🧠 Skills
 
-📫 Contact: [fabien.eliot04@gmail.com](mailto:fabien.eliot04@gmail.com)
+## 🖥️ System & Network
+Linux | Windows Server | VLAN | VPN | Routing | DNS | DHCP  
+
+## 🔐 Cybersecurity
+Snort | OpenVAS | Nessus | Web Security | HTTPS  
+
+## 📊 Data & AI
+Python | Pandas | Power BI | Machine Learning  
+
+## ⚙️ DevOps
+Docker | Kubernetes  
+
+---
+
+# 🚀 Projects
+
+- 🔐 Intrusion Detection System (Snort)
+- 🌐 Network Infrastructure Simulation (VLAN + Routing)
+- 📊 Fraud Detection System (Machine Learning)
+- 📈 Power BI Dashboard (Business Intelligence)
+- 🔐 Web Server Security (HTTPS + Hardening)
+
+---
+
+# 🌍 Languages
+
+- 🇬🇧 English — Professional  
+- 🇫🇷 Français — Professionnel  
+- 🇲🇬 Malagasy — Langue maternelle  
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FabiEli007&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabiEli007&layout=compact&theme=dark)
+
+---
+
+# 📫 Contact
+
+📧 Email: fabien.eliot04@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/fabien-elyote-randriakamamy-6a0268343/
+
+---
+
+# 🚀 Goal
+
+Building secure, scalable and intelligent IT systems combining Cybersecurity, AI and Networking.
