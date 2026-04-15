@@ -1,16 +1,16 @@
-## Hi there 👋
+🎓 IT Engineer passionate about System & Network Administration, Cybersecurity, and Data/AI.
 
-<!--
-**FabiEli007/FabiEli007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have strong experience in:
 
-Here are some ideas to get you started:
+* System administration (Linux, Windows Server)
+* Networking (VLAN, VPN, Routing)
+* Cybersecurity (Snort, OpenVAS, Nessus)
+* Data analysis & Machine Learning (Python, Power BI)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔐 I worked on securing web servers by implementing HTTPS, detecting vulnerabilities, and analyzing threats using professional tools.
+
+📊 I also build data-driven projects such as fraud detection systems and interactive dashboards.
+
+🚀 Currently focused on building real-world projects combining infrastructure, security, and data.
+
+📫 Contact: [fabien.eliot04@gmail.com](mailto:fabien.eliot04@gmail.com)
