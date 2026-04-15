@@ -1,3 +1,8 @@
+![Linux](https://img.shields.io/badge/Linux-black)
+![Python](https://img.shields.io/badge/Python-blue)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-red)
+![Data](https://img.shields.io/badge/Data-green)
+
 🎓 IT Engineer passionate about System & Network Administration, Cybersecurity, and Data/AI.
 
 I have strong experience in:
